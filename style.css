@@ -1,0 +1,10 @@
+*{padding: 0px; margin: 0px;}
+.navbar{
+    background-color: #7D5BA6;
+    display: flex;
+    border-bottom: 1px solid silver;
+    justify-content: space-around;
+    list-style-type: none;
+}
+.navbar li{ background-color: deepskyblue;}
+.nitem a{}
